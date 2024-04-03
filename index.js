@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Ps99 MM"];
+const statusMessages = ["Watching RMS"];
 
 
 let currentIndex = 0;
