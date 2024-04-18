@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Rewards Hub"];
+const statusMessages = ["Watching Akai MMs"];
 
 
 let currentIndex = 0;
