@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Ps99 Legacy"];
+const statusMessages = ["Watching Yorukaze MMs"];
 
 
 let currentIndex = 0;
