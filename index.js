@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Akai MMs"];
+const statusMessages = ["Watching Ps99 Legacy"];
 
 
 let currentIndex = 0;
