@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Yorukaze MMs"];
+const statusMessages = ["Watching Star Central MMs"];
 
 
 let currentIndex = 0;
